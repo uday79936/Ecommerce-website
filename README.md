@@ -24,7 +24,7 @@ It ensures high availability, fault tolerance, and automated monitoring and aler
 
 ## 🌐 Architecture Overview
 
-![Image](https://github.com/user-attachments/assets/e0fc40c4-1c32-4c1d-aa37-23984aa99271)
+<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/cafe5683-f921-42b7-9d3b-f1f8af930760" />
               
 
 ---
