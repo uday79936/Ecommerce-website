@@ -158,11 +158,16 @@ SNS
 
 Sends email alerts when alarms are triggered:
 
-![alt text](Email-alert.png)
+<img width="1441" height="818" alt="Image" src="https://github.com/user-attachments/assets/7b10af4b-e8e1-4a08-8516-4ad27eab0f5a" />
 
 IAM Role
 
 Grants EC2 permissions to write logs and send alerts
+
+
+final output of web hosting:
+
+<img width="1878" height="968" alt="Image" src="https://github.com/user-attachments/assets/7674fffb-302a-4015-a43c-d5e9fc0824ef" />
 
 
 ---
