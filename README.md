@@ -93,29 +93,29 @@ It ensures high availability, fault tolerance, and automated monitoring and aler
 
 - Load Balancer Configuration
 <img width="1913" height="911" alt="Image" src="https://github.com/user-attachments/assets/d4bebf0e-bac4-4e82-88db-d77347dfe100" />
-![alt text](<A.L.B status active image-13.png>)
+<img width="1895" height="945" alt="Image" src="https://github.com/user-attachments/assets/50aa93ae-0e94-4b87-ab66-97ad3dc9a3fb" />
 - Target Group Health:
 
-![alt text](<Create Target group image-2.png>)
+<img width="1902" height="902" alt="Image" src="https://github.com/user-attachments/assets/690c1b4d-20ea-4b10-b330-013d76ce3c71" />
 
 - Auto Scaling Group Settings:
 
-![alt text](<Auto scaling group size image-3.png>)
+<img width="1887" height="917" alt="Image" src="https://github.com/user-attachments/assets/67b31e69-753e-4be9-be31-8c5fd2251126" />
 
 - IAM Role and policies:
-![alt text](<ecomm iam role image-15.png>)
-
+<img width="1876" height="937" alt="Image" src="https://github.com/user-attachments/assets/50de6226-72a7-4d60-ad03-e14e4df2489c" />
 - CloudWatch Alarms history:
 
-![alt text](<cloudwatch alaram image-12.png>)
+<img width="1907" height="913" alt="Image" src="https://github.com/user-attachments/assets/06266f6a-2fd0-450d-807f-03f4877cbbb9" />
 
 - Email Confirmation for SNS:
 
-![alt text](<confirm subscription email notification image-7.png>)
+<img width="922" height="515" alt="Image" src="https://github.com/user-attachments/assets/c163638e-9ad3-4814-b76f-975fe7fb14e5" />
 
-![alt text](<Ecomm-sns confrmation status email notification image-8.png>)
+<img width="1893" height="901" alt="Image" src="https://github.com/user-attachments/assets/9968e615-63e1-4de2-8251-df299bd8d6fc" />
 
-![alt text](<Email notification alert image -10.png>)
+<img width="1456" height="801" alt="Image" src="https://github.com/user-attachments/assets/ef3445e6-bb3f-40bc-8c96-d768c6c85ea4" />
+
 
 ---
 ---
