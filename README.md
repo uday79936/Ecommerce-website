@@ -92,7 +92,7 @@ It ensures high availability, fault tolerance, and automated monitoring and aler
 ## 📸 Screenshots Included in `/images`
 
 - Load Balancer Configuration
-![alt text](<A.LB provisioning status image-9.png>)
+<img width="1913" height="911" alt="Image" src="https://github.com/user-attachments/assets/d4bebf0e-bac4-4e82-88db-d77347dfe100" />
 ![alt text](<A.L.B status active image-13.png>)
 - Target Group Health:
 
