@@ -198,7 +198,7 @@ chown -R apache:apache /var/www/html
 chmod -R 755 /var/www/html
 systemctl restart httpdl
 
-```bash
+```
 
 
 ## Author:
