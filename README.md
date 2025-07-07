@@ -91,24 +91,31 @@ It ensures high availability, fault tolerance, and automated monitoring and aler
 
 ## 📸 Screenshots Included in `/images`
 
-- Load Balancer Configuration
+## Load Balancer Configuration (provisioning):
+
 <img width="1913" height="911" alt="Image" src="https://github.com/user-attachments/assets/d4bebf0e-bac4-4e82-88db-d77347dfe100" />
+
+## Load Balancer Configuration (Active):
+
 <img width="1895" height="945" alt="Image" src="https://github.com/user-attachments/assets/50aa93ae-0e94-4b87-ab66-97ad3dc9a3fb" />
-- Target Group Health:
+
+  ## Target Group Health:
 
 <img width="1902" height="902" alt="Image" src="https://github.com/user-attachments/assets/690c1b4d-20ea-4b10-b330-013d76ce3c71" />
 
-- Auto Scaling Group Settings:
+## Auto Scaling Group Settings:
 
 <img width="1887" height="917" alt="Image" src="https://github.com/user-attachments/assets/67b31e69-753e-4be9-be31-8c5fd2251126" />
 
-- IAM Role and policies:
+## IAM Role and policies:
+
 <img width="1876" height="937" alt="Image" src="https://github.com/user-attachments/assets/50de6226-72a7-4d60-ad03-e14e4df2489c" />
-- CloudWatch Alarms history:
+
+## CloudWatch Alarms history:
 
 <img width="1907" height="913" alt="Image" src="https://github.com/user-attachments/assets/06266f6a-2fd0-450d-807f-03f4877cbbb9" />
 
-- Email Confirmation for SNS:
+ ## Email Confirmation for SNS:
 
 <img width="922" height="515" alt="Image" src="https://github.com/user-attachments/assets/c163638e-9ad3-4814-b76f-975fe7fb14e5" />
 
@@ -156,7 +163,7 @@ Triggers actions based on performance thresholds (e.g., CPU > 70%)
 
 SNS
 
-Sends email alerts when alarms are triggered:
+## Sends email alerts when alarms are triggered:
 
 <img width="1441" height="818" alt="Image" src="https://github.com/user-attachments/assets/7b10af4b-e8e1-4a08-8516-4ad27eab0f5a" />
 
@@ -165,14 +172,36 @@ IAM Role
 Grants EC2 permissions to write logs and send alerts
 
 
-final output of web hosting:
+## final output of web hosting:
 
 <img width="1878" height="968" alt="Image" src="https://github.com/user-attachments/assets/7674fffb-302a-4015-a43c-d5e9fc0824ef" />
 
 
 ---
 
-## 📬 Author
+## User's Data:
+```bash
+#!/bin/bash
+yum update -y
+yum install -y httpd
+systemctl enable httpd
+systemctl start httpd
+yum install -y git
+cd /var/www/html
+git clone https://github.com/Ai-TechNov/ecomm.git
+GitHub - Ai-TechNov/ecomm: Ecommerce Application Code
+Ecommerce Application Code. Contribute to Ai-TechNov/ecomm development by creating an account on GitHub.
+  website
+cp -r website/* .
+rm -rf website
+chown -R apache:apache /var/www/html
+chmod -R 755 /var/www/html
+systemctl restart httpdl
+
+```bash
+
+
+## Author:
 
 **Uday sairam**  
 Trainee Software Engineer | AWS Cloud Practitioner  
